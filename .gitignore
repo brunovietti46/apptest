@@ -1,0 +1,5 @@
+# Added by Eitherway — keep secrets out of version control
+.env
+.env.local
+.env.*.local
+.dev.vars
